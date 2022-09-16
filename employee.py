@@ -30,7 +30,7 @@ class Employee:
         return past_name
 
     def promote_employee(self, job_title):
-    """Assigns a new job title to :obj:`Employee`
+        """Assigns a new job title to :obj:`Employee`
         Args:
             job_title (str): the new job title
         Raises:
